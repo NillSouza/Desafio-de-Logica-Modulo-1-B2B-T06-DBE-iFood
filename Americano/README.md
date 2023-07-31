@@ -31,4 +31,4 @@ Sample Input 1
 1 1 1
 Sample Output 1
 
-3
+3.
