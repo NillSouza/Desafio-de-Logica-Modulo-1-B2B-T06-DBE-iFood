@@ -10,7 +10,7 @@ function solucao(lista) {
     for (let i = 0; i < lista.length; i++) {
         if (lista[i] >= 18) {
             if (lista[i] <= maisJovemAdulto) {
-                maisJovemAdulto = lista[i]
+                maisJovemAdulto = lista[i];
                 verificador++;
             }
         }
