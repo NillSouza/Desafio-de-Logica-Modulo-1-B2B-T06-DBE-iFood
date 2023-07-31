@@ -1,5 +1,3 @@
-
-
 function solucao(numeros) {
     let indiceGoleiro = 0, Continuar = true;
     for (const x of numeros) {
