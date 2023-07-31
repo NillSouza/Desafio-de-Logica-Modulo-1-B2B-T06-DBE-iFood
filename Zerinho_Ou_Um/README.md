@@ -52,6 +52,6 @@ Sample Input 0
     "jogada": 0
   }
 ]
-Sample Output 0
+Sample Output 0.
 
 Herman
