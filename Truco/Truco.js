@@ -7,7 +7,7 @@ function solucao(carta) {
         } else {
             if (indice >= 5) {
                 indice = 0;
-                console.log(manilha[indice])
+                console.log(manilha[indice]);
             }
             indice++;
         }
