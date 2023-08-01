@@ -17,4 +17,4 @@ Sample Input 0
 25 11.5
 Sample Output 0
 
-1925
+1925.
