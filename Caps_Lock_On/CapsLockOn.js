@@ -1,4 +1,4 @@
-let input = "BaNa  Na  ";
+let input = "bAnAnA";
 let textoFormatado = "";
 let arrayDeBool = [];
 
